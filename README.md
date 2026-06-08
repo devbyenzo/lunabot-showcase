@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Luna Landing](./LandingLuna.jpg)
+![Luna Landing](./LandingLuna.jpeg)
 
 ### O ecossistema completo para gerenciamento de servidores Discord
 
@@ -114,7 +114,7 @@ Painel administrativo desenvolvido para simplificar a configuração do bot.
 
 ## 🏠 Landing Page
 
-![Landing](./LandingLuna.jpg)
+![Landing](./LandingLuna.jpeg)
 
 A página inicial apresenta os principais recursos da Luna, informações sobre o projeto e acesso rápido ao dashboard.
 
@@ -122,7 +122,7 @@ A página inicial apresenta os principais recursos da Luna, informações sobre 
 
 ## 🔑 Sistema de Login
 
-![Login](./LoginLuna.jpg)
+![Login](./LoginLuna.jpeg)
 
 Autenticação segura utilizando Discord OAuth2.
 
@@ -130,7 +130,7 @@ Autenticação segura utilizando Discord OAuth2.
 
 ## ⚙️ Dashboard
 
-![Dashboard](./FrontEndEstrutura.jpg)
+![Dashboard](./FrontEndEstrutura.jpeg)
 
 Painel administrativo responsável pelo gerenciamento das funcionalidades do bot.
 
@@ -138,7 +138,7 @@ Painel administrativo responsável pelo gerenciamento das funcionalidades do bot
 
 ## 📚 Documentação
 
-![Docs](./DocsLuna.jpg)
+![Docs](./DocsLuna.jpeg)
 
 Área dedicada à documentação dos comandos e funcionalidades.
 
@@ -146,7 +146,7 @@ Painel administrativo responsável pelo gerenciamento das funcionalidades do bot
 
 ## 🤖 Comandos
 
-![Comandos](./ComandsLuna.jpg)
+![Comandos](./ComandsLuna.jpeg)
 
 Interface contendo os comandos disponíveis na plataforma.
 
@@ -154,7 +154,7 @@ Interface contendo os comandos disponíveis na plataforma.
 
 ## 🏗️ Arquitetura
 
-![Arquitetura](./EstruturaLuna.jpg)
+![Arquitetura](./EstruturaLuna.jpeg)
 
 Visão geral da arquitetura do projeto e comunicação entre os serviços.
 
